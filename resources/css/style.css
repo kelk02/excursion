@@ -1,0 +1,51 @@
+/* Center images */
+p img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Hero section */
+.hero {
+  text-align: center;
+  padding: 2rem;
+}
+
+.hero video {
+  max-width: 100%;
+  margin-top: 1rem;
+}
+
+/* Header styling */
+header {
+  text-align: center;
+  padding: 1rem;
+  background-color: #f4f4f4;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 2rem;
+  background-color: #f4f4f4;
+  margin-top: 2rem;
+}
+
+/* Landscape section */
+.landscape {
+  text-align: center;
+  padding: 2rem;
+}
+
+/* App preview */
+.app-preview {
+  text-align: center;
+  padding: 2rem;
+}
